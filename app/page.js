@@ -24,23 +24,22 @@
         </div>
 
         <a
-          href="https://wa.me/905555555555"
-          target="_blank"
-          style={{
-            display: "block",
-            background: "#16a34a",
-            color: "white",
-            textAlign: "center",
-            padding: "18px",
-            borderRadius: "18px",
-            marginTop: "30px",
-            textDecoration: "none",
-            fontSize: "22px",
-            fontWeight: "bold",
-          }}
-        >
-          WhatsApp'tan Teklif Al
-        </a>
+  href="https://wa.me/905555555555"
+  target="_blank"
+  style={{
+    display: "block",
+    background: "#16a34a",
+    color: "white",
+    textAlign: "center",
+    padding: "18px",
+    borderRadius: "18px",
+    marginTop: "30px",
+    textDecoration: "none",
+    fontSize: "20px"
+  }}
+>
+  WhatsApp Teklif Al
+</a>
 
         <p
           style={{
