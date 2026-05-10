@@ -24,7 +24,7 @@
         </div>
 
         <a
-          href={`https://wa.me/905555555555?text=${whatsappMesaj}`}
+          href="https://wa.me/905555555555"
           target="_blank"
           style={{
             display: "block",
